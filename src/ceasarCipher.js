@@ -26,4 +26,3 @@ function ceasarCipher(text, shift){
   }
    console.log(`Ciphered Text: ${cipher}`);
 }
-ceasarCipher(word, 3)
