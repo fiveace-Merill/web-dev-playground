@@ -1,2 +1,5 @@
 numeric_keyboard.png
 newtons_divided_diff.png
+src/web/analogue_keyboard/node_modules
+src/web/analogue_keyboard/package-lock.json
+src/web/analogue_keyboard/package.json
